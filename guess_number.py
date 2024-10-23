@@ -22,7 +22,7 @@ def main() -> None:
             elif my_number > PC_NUMBER:
                 print('Ваше число больше того, что загадано.')
             else:
-                print('Отличная интуиция! Вы угадали число ;)')
+                print('Отличная интуиция! Вы угадали число ;))')
                 break
         else:
             print(MESSAGE_ERROR) 
